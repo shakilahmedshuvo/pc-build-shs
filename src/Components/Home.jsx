@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import SingleCard from "./SingleCard";
+import image from "../../public/image.png";
 
 const Home = () => {
     const [data, setData] = useState([]);
@@ -11,11 +12,19 @@ const Home = () => {
             .then(data => setData(data))
     }, []);
 
+    // 
+    const handleDownload = () => {
+        const link = document.createElement('a');
+        link.href = image;
+        link.download = 'image.png';
+        link.click();
+    }
+
     return (
         <div
             className="container mx-auto pt-10">
             <h2
-                className='text-center text-4xl font-bold text-gray-700'>
+                className='text-center text-2xl lg:text-4xl font-bold text-gray-700'>
                 PC Build Of <span className='text-orange-500'>Abdullah Al Imran</span>
             </h2>
             {/* table */}
@@ -72,7 +81,15 @@ const Home = () => {
                             {/* total  */}
                             <div
                                 className="text-3xl text-orange-500">
-                                162,180
+                                $1386
+                            </div>
+                        </div>
+                        <div
+                            onClick={handleDownload}
+                            className="flex items-center justify-center mb-4 cursor-pointer">
+                            <div
+                                className="text-xl text-white bg-orange-500 w-fit px-4 py-2 rounded-full">
+                                Download The Image
                             </div>
                         </div>
                     </div>

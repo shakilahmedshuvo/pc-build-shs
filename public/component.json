@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Intel 13th Gen Core i5 13500 2.50 GHz up to 4.80 GHz",
-        "price": "29,500",
+        "price": "$260",
         "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-13600k/Core%20i5%2013600K-01-500x500.webp",
         "productLink": "https://www.startech.com.bd/intel-13th-gen-core-i5-13500-processor",
         "paragraph": "CPU Cores: 14, CPU Threads: 20, Graphics: Intel UHD Graphics 770, Cache: 24 MB, Socket: LGA1700"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Asus TUF GAMING B760-PLUS WIFI DDR5 12th & 13th Gen ATX Mobo",
-        "price": "28,500",
+        "price": "$200",
         "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/tuf-gaming-b760-plus-wifi-ddr5/tuf-gaming-b760-plus-wifi-ddr5-01-500x500.webp",
         "productLink": "https://www.startech.com.bd/asus-tuf-gaming-b760-plus-wifi-ddr5-motherboard",
         "paragraph": "ATX Form Factor, Intel B760 Chipset, 1 x PCIe 5.0 x16 slot,DDR5, DisplayPort & HDMI & Wi-Fi 6"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "G.Skill Trident Z5 RGB 32GB DDR5 6000MHz Desktop RAM",
-        "price": "13,000",
+        "price": "$105",
         "image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-z5-rgb/trident-z5-rgb-32gb-01-500x500.webp",
         "productLink": "https://www.startech.com.bd/g-skill-trident-z5-rgb-32gb-ddr5-6000mhz-ram",
         "paragraph": "Model: Trident Z5 RGB, Memory Type: DDR5, Tested Speed: 6000MHz,DDR5,Tested Latency: 32-38-38-96, Tested Voltage: 1.40V"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "Lian Li Galahad 360mm AIO Liquid CPU Cooler White",
-        "price": "14,300",
+        "price": "$140",
         "image": "https://www.potakait.com/image/cache/catalog/products/components/cpu-coolers/lian-li-galahad-360mm-cpu-cooler-white-01.jpg-550x550.jpg.webp",
         "productLink": "https://www.potakait.com/lian-li-galahad-360mm-cpu-cooler-white",
         "paragraph": "Fan Speed 800±200(30%DUTY) ~ 1900 RPM±10%, RADIATOR MATERIALS: Aluminum and plastic, 360mm Closed-Loop AIO Liquid Cooler,Weight 1696G"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Samsung PM9A1 512GB M.2 PCIe Gen 4.0 NVMe SSD",
-        "price": "5,900",
+        "price": "$50",
         "image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/pm9a1/pm9a1-01-500x500.webp",
         "productLink": "https://www.startech.com.bd/samsung-pm9a1-512gb-nvme-ssd",
         "paragraph": "Model: PM9A1, Interface: PCIe 4.0 x4 NVMe, Storage Capacity: 512GB, Sequential read/write: 6900/5000MB/s, Operating Temperature 0°C~70°C"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "name": "GUNNIR Intel Arc A770 Photon 16G OC W Graphics Card",
-        "price": "38,000",
+        "price": "$380",
         "image": "https://www.potakait.com/image/cache/catalog/graphics%20card/GUNNIR%20Intel%20Arc%20A770%20Photon%2016G%20OC%20W.jpg-550x550.jpg.webp",
         "productLink": "https://www.potakait.com/gunnir-intel-arc-a770-photon-16g-oc-w-graphics-card?search=arc%20770",
         "paragraph": "Video Memory: 16GB , power supply : 650W, Core Clock 2400MHz"
@@ -50,23 +50,23 @@
     {
         "id": 7,
         "name": "CORSAIR CV750 750 Watt 80 Plus Bronze Certified Power Supply",
-        "price": "7,000",
+        "price": "$70",
         "image": "https://www.techlandbd.com/image/catalog/Power-Supply/Corsair/CV%20Series%20CV750/CV750-3.jpg",
         "productLink": "https://www.techlandbd.com/corsair-cv-series-750w-psu",
         "paragraph": "Product Model CV750, Certification 80+ Bronze, Dimension 150 X 86 X 125, Efficiency (Approx.) 88%"
     },
     {
         "id": 8,
-        "name": "Golden Field M360 White Mini Tower Micro-ATX Case",
-        "price": "4,500",
-        "image": "https://www.potakait.com/image/cache/catalog/casing/Golden%20Field/seaview-m360-.jpg-550x550.jpg.webp",
-        "productLink": "https://www.potakait.com/golden-field-seaview-m360-white-gaming-case",
-        "paragraph": "Tempered Glass Left Side Panel, USB 3.0*1 & USB 2.0*2 & HD Audio, 3x ARGB Pre-installed Fans"
+        "name": "Value-Top VT-V3W Mid Tower ATX Casing",
+        "price": "$42",
+        "image": "https://www.startech.com.bd/image/cache/catalog/casing/value-top/vt-v3w/vt-v3w-01-500x500.webp",
+        "productLink": "https://www.startech.com.bd/value-top-vt-v3w-mid-tower-gaming-casing",
+        "paragraph": "Tempered Glass Left Side Panel, USB 3.0*1 & USB 2.0*2 & HD Audio"
     },
     {
         "id": 9,
         "name": "MSI PRO MP273AW 27 FHD 100HZ IPS Monitor",
-        "price": "21,480",
+        "price": "$139",
         "image": "https://www.potakait.com/image/cache/catalog/monitor/msi/mp273aw.jpg-550x550.jpg.webp",
         "productLink": "https://www.potakait.com/msi-pro-mp273aw-27-monitor",
         "paragraph": "Resolution: FHD (1920 x 1080),Display: IPS, 100Hz, 1ms (MPRT) / 4ms (GTG), Ports: HDMI, D-Sub (VGA), Features: 2x 3W Speaker Color Support 8 Bits ( 6 Bits + FRC ), Weight 3.9KG"
